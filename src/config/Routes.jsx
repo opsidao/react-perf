@@ -3,7 +3,7 @@ import { Route } from 'react-router'
 import TodoList1 from '../components/example/TodoList'
 import TodoList2 from '../components/exercise1/TodoList'
 import Windowing from '../components/exercise2'
-import App from '../components/APP'
+import App from '../components/App'
 
 const Routes = (
   <Route>
